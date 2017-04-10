@@ -1,0 +1,17 @@
+# Setup
+title:        People Of NITH
+tagline:      NITH's Student Website That Was So Direly Needed
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Arihant Verma
+  url:        https://gdad-s-river.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
