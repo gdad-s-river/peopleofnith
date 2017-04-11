@@ -25,5 +25,5 @@ Most of my personal reasons are listed here:
 
 ### SOME OF THE OTHER LINKS THAT YOU MIGHT BE INTERESTED IN READING: 
 - [A Facebook post I wrote about this in January, 2017](https://www.facebook.com/arihantverma/posts/1555035554561395)
-- A Quora Question: [How To Make Alumnin Network of NIT Hamirpur Effective](https://www.quora.com/How-to-make-Alumni-Network-of-Nit-Hamirpur-Effective)
+- A Quora Question: [How To Make Alumni Network of NIT Hamirpur Effective](https://www.quora.com/How-to-make-Alumni-Network-of-Nit-Hamirpur-Effective)
 - A rather long and annoying animation (not mobile friendly) I made curating thinking processes of alumni I met at Bangalore Alumni Meetup [here](https://gdad-s-river.github.io/alma-connect-growth-hack/). TIP: Please hit the **Car** icon when prompted, if you want to save 7 mins of painful animation of alphabets.
