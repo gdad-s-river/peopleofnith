@@ -8,7 +8,11 @@ title: {{ site.name }}
   <ul class="posts" style="list-style-type: none">
     {% for post in site.posts reversed %}
       <!--<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>-->
-      <li><span></span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
+      <li>
+        <span></span>
+        &raquo;
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <li>
     {% endfor %}
   </ul>
 </div>
