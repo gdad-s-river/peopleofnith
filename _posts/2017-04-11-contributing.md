@@ -5,7 +5,7 @@ layout: post
 permalink: "/blog/contributing"
 ---
 
-As soon as I've made the first feature (sign up flow and sign in + directory component), I'll be open to contributions and ideas from anybody. The code is residing in a private github repo. 
+As soon as I've made the first feature (sign up flow and sign in + directory component), I'll be open to contributions and ideas from anybody. The code will be residing in a public github repo. 
 
 Long term goal of this project is to onboard the existing students within a year, who'd keep the project forward. 
 
